@@ -450,7 +450,7 @@ figure.snip1104.hover:before {
 }
 
 .navbar {
-  position: sticky;
+  position: relative;
   top: 0;
   display:flex;
   overflow:hidden;
